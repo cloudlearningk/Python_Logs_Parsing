@@ -25,7 +25,7 @@ Count backup completions and total backup size.
 Detect CrashLoopBackOff in logs and trigger an alert.
 
 
-## 🧠 How I Practiced & Learned
+##  How I Practiced & Learned
 
 While working on this project, I followed a **step-by-step, hands-on approach** to truly understand Python and its applications in DevOps and Cloud automation:  
 
