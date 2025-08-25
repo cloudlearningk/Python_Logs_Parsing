@@ -8,8 +8,8 @@ This repository includes Python scripts that can handle day-to-day DevOps and Cl
 
 - **Extract all IP addresses** from logs.
 - **Extract all usernames** and count their frequency.
-- **Get all failed builds** from logs (`Build Failed`).
-- **Find all resources mentioned in logs** (`azure_vm`, `aws_s3_bucket`, `k8s_pod`).
+- **Get all failed builds** from logs .
+- **Find all resources mentioned in logs** .
 - **Detect all lines with ERROR** and save them separately.
 - **Extract CPU and Memory usage** for all VMs and convert them into integers.
 - **Find all logs where CPU usage > 80%**.
