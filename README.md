@@ -18,6 +18,6 @@ Extract CPU and Memory usage for all VMs, convert them to integers.
 
 Find all logs where CPU > 80%.
 
-Extract container IDs (hex strings) and check their length (should be 12 or 64).
+Extract container IDs (hex strings)
 
 Count how many times Backup completed appears and total backup size.
