@@ -13,3 +13,11 @@ Get all failed builds from logs (Build Failed).
 Find all resources (azure_vm, aws_s3_bucket, k8s_pod) mentioned in logs.
 
 Detect all lines with ERROR and save separately.
+
+Extract CPU and Memory usage for all VMs, convert them to integers.
+
+Find all logs where CPU > 80%.
+
+Extract container IDs (hex strings) and check their length (should be 12 or 64).
+
+Count how many times Backup completed appears and total backup size.
