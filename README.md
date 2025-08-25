@@ -21,3 +21,5 @@ Find all logs where CPU > 80%.
 Extract container IDs (hex strings)
 
 Count how many times Backup completed appears and total backup size.
+
+Find if substring CrashLoopBackOff exists in logs then alert.
