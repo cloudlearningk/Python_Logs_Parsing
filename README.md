@@ -1,2 +1,3 @@
-# Python_Logs_Parsing (Devops & Cloud)
-A growing collection of Python exercises focused on mastering core programming concepts, logic building, and problem-solving for real-world use and coding interviews.
+# Easy_Python_Logs_Parsing (Devops & Cloud)
+
+This repo contains simple Python scripts to practice that showcase how basic Python skills can be applied to solve DevOps and Cloud automation problems.
