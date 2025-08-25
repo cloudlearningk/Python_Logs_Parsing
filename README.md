@@ -6,7 +6,7 @@ List of Problems that we face day to day
 
 Extract all IP addresses from logs.
 
-Extract all usernames (User=) and count frequency.
+Extract all usernames and count frequency.
 
 Get all failed builds from logs (Build Failed).
 
