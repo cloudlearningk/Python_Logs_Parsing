@@ -2,27 +2,21 @@
 
 Easy_Python_Logs_Parsing is a collection of simple Python scripts designed to practice basic Python skills while solving real-world DevOps and Cloud automation problems.
 
+## Features
+
 This repository includes Python scripts that can handle day-to-day DevOps and Cloud log parsing tasks, such as:
 
-Extract all IP addresses from logs.
+- **Extract all IP addresses** from logs.
+- **Extract all usernames** and count their frequency.
+- **Get all failed builds** from logs (`Build Failed`).
+- **Find all resources mentioned in logs** (`azure_vm`, `aws_s3_bucket`, `k8s_pod`).
+- **Detect all lines with ERROR** and save them separately.
+- **Extract CPU and Memory usage** for all VMs and convert them into integers.
+- **Find all logs where CPU usage > 80%**.
+- **Extract container IDs** (hex strings).
+- **Count backup completions** and total backup size.
+- **Detect CrashLoopBackOff** in logs and trigger an alert.
 
-Extract all usernames and count their frequency.
-
-Get all failed builds from logs (Build Failed).
-
-Find all resources mentioned in logs (azure_vm, aws_s3_bucket, k8s_pod).
-
-Detect all lines with ERROR and save them separately.
-
-Extract CPU and Memory usage for all VMs and convert them into integers.
-
-Find all logs where CPU usage > 80%.
-
-Extract container IDs (hex strings).
-
-Count backup completions and total backup size.
-
-Detect CrashLoopBackOff in logs and trigger an alert.
 
 
 ##  How I Practiced & Learned
